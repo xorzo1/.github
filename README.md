@@ -1,5 +1,34 @@
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=xorzo1&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=xorzo1&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=xorzo1&theme=tokyonight&hide_border=true&background=FFFFFF00">
+	<img src="https://imgur.com/6ItUPfW.png">
+	<h2 align="center">xorzo's github profile</h2>
+	<p align="center">Welcome to my github profile👋<p>
+</p>
+<p align="center">
+    <a href="https://google.com/">Discord</a>
+    ·
+    <a href="https://google.com/">Portfolio</a>
+    ·
+    <a href="https://google.com/">Twitter</a>
+  </p>
+
+<p align="center">
+    <h3 align="center">Introducing</h3>
+    <p align="center">Hello my name is xorzo, right now i don't really work on a main project. Right now im focusing alot on improving my web/nui (frontend) skills. I have also been around the FiveM community for a long time and right now, helping out the framework ESX besides that its really just projects for meself to impove my skills.</p>
+</p>
+
+<p align="center">
+<h3 align="center">Languages</h3>
+<p align="center">I love to learn languages to make cool shit. See here some of the languages i used the most:</p>
+</p>
+<p align="center">
+	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=xorzo1">
+</p>
+
+<p align="center">
+	<h3 align="center">My github stats</h3>
+	<p align="center">See here my "awesome" github stats:<p>
+</p>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=xorzo1">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=xorzo1">
 </p>
