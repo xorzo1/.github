@@ -27,6 +27,8 @@
     <a><img src="./public/icons/mongodb.svg" alt="mongodb" style="width:30px; margin:5px"></img></a>
     <a><img src="./public/icons/git.svg" alt="git" style="width:30px; margin:5px"></img></a>
 
+<br />
+<br />
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=xorzo1&layout=compact&bg_color=282a36&text_color=ffffff">
 </section>
 
