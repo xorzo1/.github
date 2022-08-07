@@ -1,12 +1,13 @@
 <section align="center">
+    <img src="https://imgur.com/4Il4Cx7.png" width="195px">
     <h2>xorzo's github profile</h2>
-    <p align="center">Welcome to my github profile 👋</p>
+    <p>Welcome to my github profile 👋</p>
 </section>
 
 <section align="center">
-    <a href="https://www.youtube.com/channel/UCxQSVdG4Mj5dZ8KDKK4AHEw"><img src="./public/icons/youtube.svg" alt="Youtube" style="width:30px; margin:5px"></img></a>
-    <a href="https://github.com/xorzo1"><img src="./public/icons/github.svg" alt="Github" style="width:30px; margin:5px"></img></a>
-    <a href="https://google.com/"><img src="./public/icons/discord.svg" alt="Discord" style="width:30px; margin:5px"></img></a>
+    <a><img src="./public/icons/youtube.svg" alt="Youtube" style="width:30px; margin:5px"></img></a>
+    <a><img src="./public/icons/github.svg" alt="Github" style="width:30px; margin:5px"></img></a>
+    <a><img src="./public/icons/discord.svg" alt="Discord" style="width:30px; margin:5px"></img></a>
     <a></a>
 </section>
 
@@ -29,6 +30,7 @@
 
 <br />
 <br />
+
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=xorzo1&layout=compact&bg_color=282a36&text_color=ffffff">
 </section>
 
