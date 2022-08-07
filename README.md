@@ -4,9 +4,9 @@
 </section>
 
 <section align="center">
-    <a><img src="./public/icons/youtube.svg" alt="Youtube" style="width:30px; margin:5px"></img></a>
-    <a><img src="./public/icons/github.svg" alt="Github" style="width:30px; margin:5px"></img></a>
-    <a><img src="./public/icons/discord.svg" alt="Discord" style="width:30px; margin:5px"></img></a>
+    <a href="https://www.youtube.com/channel/UCxQSVdG4Mj5dZ8KDKK4AHEw"><img src="./public/icons/youtube.svg" alt="Youtube" style="width:30px; margin:5px"></img></a>
+    <a href="https://github.com/xorzo1"><img src="./public/icons/github.svg" alt="Github" style="width:30px; margin:5px"></img></a>
+    <a href="https://google.com/"><img src="./public/icons/discord.svg" alt="Discord" style="width:30px; margin:5px"></img></a>
     <a></a>
 </section>
 
