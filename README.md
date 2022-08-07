@@ -1,34 +1,44 @@
-<p align="center">
-	<img src="https://imgur.com/6ItUPfW.png">
-	<h2 align="center">xorzo's github profile</h2>
-	<p align="center">Welcome to my github profile👋<p>
-</p>
-<p align="center">
-    <a href="https://google.com/">Discord</a>
-    ·
-    <a href="https://google.com/">Portfolio</a>
-    ·
-    <a href="https://google.com/">Twitter</a>
-  </p>
+<section align="center">
+    <h2>xorzo's github profile</h2>
+    <p align="center">Welcome to my github profile 👋</p>
+</section>
 
-<p align="center">
-    <h3 align="center">Introducing</h3>
-    <p align="center">Hello my name is xorzo, right now i don't really work on a main project. Right now im focusing alot on improving my web/nui (frontend) skills. I have also been around the FiveM community for a long time and right now, helping out the framework ESX besides that its really just projects for meself to impove my skills.</p>
-</p>
+<section align="center">
+    <a><img src="./public/icons/youtube.svg" alt="Youtube" style="width:30px; margin:5px"></img></a>
+    <a><img src="./public/icons/github.svg" alt="Github" style="width:30px; margin:5px"></img></a>
+    <a><img src="./public/icons/discord.svg" alt="Discord" style="width:30px; margin:5px"></img></a>
+    <a></a>
+</section>
 
-<p align="center">
-<h3 align="center">Languages</h3>
-<p align="center">I love to learn languages to make cool shit. See here some of the languages i used the most:</p>
-</p>
-<p align="center">
-	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=xorzo1">
-</p>
+<section align="center">
+    <h3>Introducing</h3>
+    Hello my name is xorzo, im a full-stack developer that likes to code stupid shit, i mostly don't work on main project i like to be around everywhere. And im also focusing every day to learn new stuff and improving my skills. I'm a non-profit developer, i don't wanna do it for the money i just want to enjoy doing what i;m doing. 
+</section>
 
-<p align="center">
-	<h3 align="center">My github stats</h3>
-	<p align="center">See here my "awesome" github stats:<p>
-</p>
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=xorzo1">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=xorzo1">
-</p>
+<section align="center">
+    <h3>Languages, Libraries and Tools</h3>
+    <a><img src="./public/icons/html.svg" alt="html" style="width:30px; margin:5px"></img></a>
+    <a><img src="./public/icons/css.svg" alt="css" style="width:30px; margin:5px"></img></a>
+    <a><img src="./public/icons/javascript.svg" alt="javascript" style="width:30px; margin:5px"></img></a>
+    <a><img src="./public/icons/typescript.svg" alt="typescript" style="width:30px; margin:5px"></img></a>
+    <a><img src="./public/icons/nodejs.svg" alt="nodejs" style="width:30px; margin:5px"></img></a>
+    <a><img src="./public/icons/react.svg" alt="react" style="width:30px; margin:5px"></img></a>
+    <a><img src="./public/icons/vue.svg" alt="vue" style="width:30px; margin:5px"></img></a>    
+    <a><img src="./public/icons/mongodb.svg" alt="mongodb" style="width:30px; margin:5px"></img></a>
+    <a><img src="./public/icons/git.svg" alt="git" style="width:30px; margin:5px"></img></a>
+
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=xorzo1&layout=compact&bg_color=282a36&text_color=ffffff">
+</section>
+
+<section align="center">
+    <h3>Softwares</h3>
+    <a><img src="./public/icons/vscode.svg" alt="vscode" style="width:30px; margin:5px"></img></a>
+    <a><img src="./public/icons/intellij.svg" alt="intellij" style="width:30px; margin:5px"></img></a>
+    <a><img src="./public/icons/xd.svg" alt="adobe xd" style="width:30px; margin:5px"></img></a>
+    <a><img src="./public/icons/photoshop.svg" alt="photoshop" style="width:30px; margin:5px"></img></a>
+</section>
+
+<section align="center">
+    <h3>Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=xorzo1&bg_color=282a36&text_color=ffffff">
+</section>
