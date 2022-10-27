@@ -13,7 +13,7 @@
 
 <section align="center">
     <h3>Introducing</h3>
-    Hello my name is xorzo, im a full-stack developer that likes to code stupid shit, i mostly don't work on main project i like to be around everywhere. And im also focusing every day to learn new stuff and improving my skills. I'm a non-profit developer, i don't wanna do it for the money i just want to enjoy doing what i;m doing. 
+    Hello my name is xorzo, im a full-stack developer that likes to code stupid shit, i mostly don't work on main project i like to be around everywhere. And im also focusing every day to learn new stuff and improving my skills. I try todo everything for free because i enjoy what im doing and i want other people to enjoy my work to! 
 </section>
 
 <section align="center">
